@@ -1,6 +1,6 @@
 # akjTools
-`akjTools` is a collection of HDAs I've developed and featured on https://www.andreaskj.com.
-They work in all licenses of Houdini, including FX.
+`akjTools` is a collection of HDAs I've developed and featured on https://www.andreaskj.com. <br />
+They work in all licenses of Houdini, including FX. <br />
 Some HDAs require Houdini 20.5
 
 ### Download and Install
@@ -12,7 +12,7 @@ I recommend installing the collection of HDAs through Houdini's packages system.
   - Linux: `~/houdiniX.Y/packages/`
   - Windows: `%HOME%/houdiniX.Y/packages/`
 3. Create a `.json` file called `akjTools.json` inside the packages folder.
-4. Edit the `akjTools.json` file using a text editor, add the following, and save the file. Remember to replace <Path to akjTools> with the path to the folder of the downloaded repository:
+4. Edit the `akjTools.json` file using a text editor, add the text below, and save the file. Remember to replace `<Path to akjTools>` with the path to the folder of the downloaded repository:
   ```
   {
   	"hpath" : "<Path to akjTools>"
