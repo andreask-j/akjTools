@@ -1,6 +1,6 @@
 # akjTools
 `akjTools` is a collection of HDAs I've developed and featured on https://www.andreaskj.com. <br />
-They work in all licenses of Houdini, including FX. <br />
+HDAs suffixed with .hda will work in all Houdini licenses (including FX), HDAs suffixed with .hdalc will only work in Indie licenses of Houdini. <br />
 Some HDAs require Houdini 20.5
 
 ### Download and Install
